@@ -1,3 +1,5 @@
+This is a course project part of the Manchester Codes curriculum. The project was built on Manchester Codes repository as per the below instructions. For my solution, please switch to the bugs branch.
+
 # Manchester Codes Debugging Adventure
 
 Debugging practice for `node.js`.
